@@ -4,7 +4,7 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'A.M | cp-MIT',
   description: 'developed by Aayush Mishra',
-  generator: 'v0.dev',
+  generator: 'aayush.dev',
 }
 
 export default function RootLayout({
