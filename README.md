@@ -188,7 +188,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Aayush Mishra - [X](https://x.com/AayushMish33852) - aayushmishra1105@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/aayushmishramechatronics/cp-mit-manipal)
+Project Link: [https://github.com/aayushmishramechatronics/cp-mit-manipal](https://github.com/aayushmishramechatronics/cp-mit-manipal)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
